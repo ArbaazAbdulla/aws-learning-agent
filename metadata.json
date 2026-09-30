@@ -1,0 +1,6 @@
+{
+  "name": "AWS Learning Agent - Interactive Cloud Tutor & Exam Prep",
+  "description": "AI-powered learning assistant for mastering AWS cloud concepts, architecture designs, certification exam preparation, and interactive quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
